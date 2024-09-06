@@ -1,2 +1,2 @@
-# GitHub-con-Karen
+# Tutorial de GitHub
 Trabajando en Remoto
